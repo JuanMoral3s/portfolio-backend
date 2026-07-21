@@ -1,0 +1,23 @@
+## Visual Studio / dotnet / C# ignore
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## SQL Server / LocalDB files
+*.mdf
+*.ldf
+
+## OS generated files
+.DS_Store
+Thumbs.db
